@@ -1,5 +1,5 @@
 # machine-learning
 
 
-#### Face detection
+## Face detection
   [Sample data from Kaggle](https://www.kaggle.com/datasets/dataturks/face-detection-in-images)
