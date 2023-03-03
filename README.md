@@ -7,6 +7,6 @@
 
 ### Projects
 
-- [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [Face Detection sample Data](https://www.kaggle.com/datasets/dataturks/face-detection-in-images)
 - [iOS Recognizing Gestures](https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-recognizegestures)
