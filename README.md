@@ -3,7 +3,7 @@
 ## Contribution
 
 - Please feel free to add links as long as it's comprehensive.
-- If you have finished implementing any project, you can showcase it [here](https://github.com/unobatbayar/machine-learning/discussions/1).
+- If you have finished building, you can showcase it [here](https://github.com/unobatbayar/machine-learning/discussions/1).
 
 ### Projects
 
