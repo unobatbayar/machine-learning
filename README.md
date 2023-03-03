@@ -1,9 +1,10 @@
-# machine-learning
+# Machine Learning projects with tutorials
 
+## Contribution
 
-#### Face detection
-- [Sample data](https://www.kaggle.com/datasets/dataturks/face-detection-in-images)
+- Please feel free to contribute as long as it's comprehensive
 
+### All contents
 
-#### Recognizing Gestures
-- [iOS Sample App](https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-recognizegestures)
+- [Face Detection with sample Data](https://www.kaggle.com/datasets/dataturks/face-detection-in-images)
+- [iOS Recognizing Gestures](https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-recognizegestures)
