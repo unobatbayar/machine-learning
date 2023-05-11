@@ -7,6 +7,7 @@
 </div>
 
 ### Reading
+- [Artificial Intelligence: A Modern Approach](https://www.amazon.co.jp/-/en/Stuart-Russell/dp/1292153962)
 - [Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 
 ### Libraries
