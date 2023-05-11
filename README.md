@@ -10,7 +10,7 @@
 ### Learning
 - [Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [scikit-learn / Machine Learning in Python](https://scikit-learn.org/stable/index.html)
-
+- [Recognizing hand-written digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-auto-examples-classification-plot-digits-classification-py)
 
 ### Projects
 
