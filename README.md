@@ -11,7 +11,7 @@
 - [Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 
 ### Libraries
-- [scikit-learn / Machine Learning in Python](https://scikit-learn.org/stable/index.html)
+- [scikit-learn](https://scikit-learn.org/stable/index.html) Machine Learning in Python
 - [Matplotlib](https://matplotlib.org/) For graphing and visualizations
 
 ### Example Projects
