@@ -12,6 +12,7 @@
 
 ### Libraries
 - [scikit-learn / Machine Learning in Python](https://scikit-learn.org/stable/index.html)
+- [Matplotlib](https://matplotlib.org/) For graphing and visualizations
 
 ### Example Projects
 - [Recognizing hand-written digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-auto-examples-classification-plot-digits-classification-py)
