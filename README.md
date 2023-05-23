@@ -1,8 +1,5 @@
 <div align="center">
-  <h1><code>machine-learning</code></h1>
-
-  <strong>Learning machine learning</strong>
-  
+  <h1><code>machine-learning</code></h1>  
 </div>
 
 ### Reading
