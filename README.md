@@ -9,6 +9,8 @@
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.co.jp/-/en/Stuart-Russell/dp/1292153962)
 - [Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
 
+### Modules
+- [pickle](https://docs.python.org/3/library/pickle.html) Python object serialization _(Pickling)_
 ### Libraries
 - [scikit-learn](https://scikit-learn.org/stable/index.html) Machine Learning in Python
 - [Matplotlib](https://matplotlib.org/) Visualization with Python
