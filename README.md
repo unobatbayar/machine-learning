@@ -23,5 +23,5 @@
 - [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 - [Car Evaluation Data Set](https://archive.ics.uci.edu/ml/datasets/car+evaluation)
 
-### Other
+### Deployment
 - [Recognizing Objects in Live Capture](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture)
