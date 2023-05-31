@@ -23,6 +23,6 @@
 - [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 - [Car Evaluation Data Set](https://archive.ics.uci.edu/ml/datasets/car+evaluation)
 
-### Apply your model with other libraries
+### Apply your model
 - [Recognizing Objects in Live Capture](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture)
 - [AVSpeechSynthesizer](https://developer.apple.com/documentation/avfaudio/avspeechsynthesizer/)
